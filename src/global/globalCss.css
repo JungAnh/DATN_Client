@@ -1,0 +1,33 @@
+.icon:hover{
+  cursor: pointer;
+  transform: scale(1.1);
+  color: antiquewhite;
+  
+}
+.icon{
+  font-size: 28px;
+}
+
+.upperCase{
+  text-transform: uppercase;
+}
+
+li{
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+}
+
+
+
+@font-face{
+	font-family: "MulishBlack";
+	src: local("Mulish-Black"), url("../fonts/Mulish-Black.ttf") format ("truetype");
+}
+
+.category-header{
+  text-decoration: none;
+}
+
